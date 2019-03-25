@@ -1,7 +1,7 @@
 // script that organizes files in folder based on their name.
 const fs = require('fs');
 
-const moveFileTypes = ['.jpg', '.JPG', '.mp4'];
+const moveFileTypes = ['.jpg', '.JPG', '.mp4', '.CR2'];
 
 const path = "./organize/";
 const filespath = "./files/";
