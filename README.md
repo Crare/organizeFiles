@@ -12,5 +12,6 @@ You need node and npm installed.
 
 
 move .CR2 raw image files to own folder, in terminal:
+
     mkdir RAW
     mv *.CR2 RAW/
